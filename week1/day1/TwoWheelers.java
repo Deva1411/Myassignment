@@ -15,5 +15,4 @@ public class TwoWheelers {
 		double runningKM=145.987;
 		        System.out.println(runningKM);
 	}
-
 }
