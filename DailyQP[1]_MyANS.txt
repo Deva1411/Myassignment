@@ -1,0 +1,82 @@
+
+       Answer All the Question
+1.Explain about the main method in java?
+
+         main method is also a method in java 
+   --> public static main void (string[] ards){
+
+      }
+but without main method we can't able to run the java program
+
+
+
+2.What are the different  Control flow Statements available in java?
+
+   1.decision making statement
+        1.if
+        2.if else
+   2.looping statement
+        1.for
+        2.while
+   3.jump statement
+        1.break 
+        2.continue 
+
+
+3.What is the Difference betweeen break and continue statements?
+
+   break-- it is used to exit from the loop or a switch statemengt 
+   continue--it is used to move the control to the next iteration pf the loop
+
+4.What is an Array? How will you declare an array in java?
+
+  array is a collection of similar datatype 
+  it is decalared by 2 method
+  liter--> int[] num={1,2,3,4};
+  using new keyword--> String[] name= new String[5]; 
+
+
+5.When will you get ArrayIndexOutOfBoundsException?
+    ArrayIndexOutOfBoundsExceptionis one of the most common error in java. it occurs when the program 
+  attemps to access asn invalid in an array i.e. an index that is less then 0, or equal to or greater
+  then the length of the array
+
+
+6.Define the Syntax to create an object for a class.
+      Syntax to create an object for a class
+      --> classname object=new classname();
+        eg--> car door =new car();
+
+
+What are the naming conventions to be followed while creating a class, 
+method and a variable.Explain with examoles
+     pasical notaion-->class   eg:-PrimeNumber
+     camelcase-->method & variable   eg:-addTwoNumbers
+
+
+7.What is Variable?How will you declare a variables in java?
+     a varioable is a properties/ informations about an object
+
+
+8.What is String in java? Is it a Data Type?
+    A String is a non premitive datatype 
+    it is a class
+    it is immutable object it means its constant and we cant able tochange when it has been created
+
+9.What are the different ways to create the String Object in java?
+   it can be creatyed by two ways
+    --> litteral   
+                String text="TestLeaf";
+    --> using new keyword
+               String text = new String("TestLeaf);
+
+10.What is the Difference between .Equals and ==? 
+    .Equals --> check the content of the data
+     == --> check the memory location/address of the data
+  
+
+
+
+
+
+
